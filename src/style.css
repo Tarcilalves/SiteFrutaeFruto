@@ -1,3 +1,6 @@
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+}
 .imagem-carrossel-um{
     object-fit: cover;  /* preserva a proporção*/
     object-position: 0 80%;
@@ -8,3 +11,4 @@
     object-fit: cover;  /* preserva a proporção*/
     height: 400px;
 }
+
