@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/107896645/233821326-4ecc0799-32d2-4b68
 # Acesso ao projeto
 
 <br>
-:open_file_folder: [Acesse meu projeto](https://tarcilalves.github.io/Instrumento-Mucical-MIDI/).
+:open_file_folder: [Acesse meu projeto](https://tarcilalves.github.io/SiteFrutaeFruto/).
 
 
 # Tecnologias utilizadas
