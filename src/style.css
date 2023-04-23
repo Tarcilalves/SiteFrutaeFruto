@@ -1,6 +1,11 @@
 .fonte-titulo{
     font-family: 'Pacifico', cursive;
 }
+
+.card-largura {
+    width: 18rem;
+}
+
 .imagem-carrossel-um{
     object-fit: cover;  /* preserva a proporção*/
     object-position: 0 80%;
@@ -25,4 +30,9 @@
 
 .borda-cor-especial {
     border-color: darkred;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;  /* preserva a proporção*/
+    height: 200px;
 }
